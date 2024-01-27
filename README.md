@@ -1,0 +1,2 @@
+# Activities
+Hands-on
